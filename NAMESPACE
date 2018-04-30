@@ -1,0 +1,8 @@
+exportPattern(PAL, SAS, PAL.fit, SAS.fit, PAL.control, TR)
+importFrom("stats", "as.formula", "coef", "delete.response", "lm",
+           "model.matrix", "model.response", "plogis", "terms", "var")
+import("Formula")
+import("Rglpk")
+import("ncvreg")
+import("Matrix")
+import("svMisc")
