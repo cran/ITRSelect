@@ -113,7 +113,7 @@ where \code{x=c(x1, a1, x2)}.
 }
 \references{
 Shi, C. and Fan, A. and Song, R. and Lu, W. (2018) High-Dimensional A-Learing for Optimal
-Dynamic Treatment Regimes. \emph{Annals of Statistics,} in press. 
+Dynamic Treatment Regimes. \emph{Annals of Statistics,} \bold{ 46:} 925-957. 
 
 Shi, C. and Song, R. and Lu, W. (2018) Concordance and Value Information Criteria for
 Optimal Treatment Decision. \emph{Under review}. 

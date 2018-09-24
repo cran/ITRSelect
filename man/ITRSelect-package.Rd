@@ -27,7 +27,7 @@ Maintainer: Chengchun Shi <cshi4@ncsu.edu>
 }
 \references{
 Shi, C. and Fan, A. and Song, R. and Lu, W. (2018) High-Dimensional A-Learing for Optimal
-Dynamic Treatment Regimes. \emph{Annals of Statistics,} in press. 
+Dynamic Treatment Regimes. \emph{Annals of Statistics,} \bold{ 46:} 925-957. 
 
 Fan, A. and Lu, W. and Song, R. (2016) Sequential Advantage Selection for Optimal Treatment 
 Regime. \emph{Annals of Applied Statistics,} \bold{ 10:} 32-53. 
